@@ -1,6 +1,3 @@
-# IFS_L1T6_Capstone_Project_1
-A temperature metric converter using HTML and JavaScript
-
 # **JavaScript Variables and Control Structures: Temperature Metric Converter**
 
 ## **IFS L1T06 - Capstone Project 1: Variables and Control Structures**
